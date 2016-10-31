@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun May 19 14:10:40 EDT 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Oleracea/pLinguaCoreOleraceaWrapper.jar
+manifest.mergeall=true
+manifest.mainclass=org.gcn.pLinguaCoreCSVApplication.OleraceaGUIEntryPoint
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
