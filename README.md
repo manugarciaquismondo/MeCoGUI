@@ -1,5 +1,4 @@
 # MeCoGUI
-A minimalistic interface for pLinguaCore
 
 MeCoGUI is a minimalistic Graphic User Interface (GUI) for the modeling and simulation of P-Lingua models using pLinguaCore. MeCoGUI provides controls to parse, simulate and export P system specifications.
 
