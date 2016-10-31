@@ -20,3 +20,5 @@ The parameters file must contain a _steps_per_cycle_ parameter indicating how ma
 ![Steps per cycle](https://github.com/manugarciaquismondo/MeCoGUI/blob/master/images/steps_per_cycle.png)
 
 You can also set a report file with simulation statistics clicking on _File_>_Set Report_.
+
+![Set a report file](https://github.com/manugarciaquismondo/MeCoGUI/blob/master/images/mecogui_set_report.png)
