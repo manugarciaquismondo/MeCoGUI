@@ -15,6 +15,8 @@ Then, click on _File_>_Load Data_ and select the parameters of the model in _.CS
 
 ![Load model parameters](https://github.com/manugarciaquismondo/MeCoGUI/blob/master/images/mecogui_load_data.png)
 
-The parameters file must contain a 
+The parameters file must contain a _steps_per_cycle_ parameter indicating how many steps consist a cycle on.
+
+![Steps per cycle](https://github.com/manugarciaquismondo/MeCoGUI/blob/master/images/steps_per_cycle.png)
 
 You can also set a report file with simulation statistics clicking on _File_>_Set Report_.
