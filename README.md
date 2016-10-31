@@ -27,4 +27,12 @@ The routes of the selected files will appear in MeCoGUI.
 
 ![MeCoGUI route display](https://github.com/manugarciaquismondo/MeCoGUI/blob/master/images/mecogui_routes_set.png)
 
+Once the _Model_ and _Data_ file routes have been set, the P system can be parsed clicking on _Initialize_.
+
+![Initialize model](https://github.com/manugarciaquismondo/MeCoGUI/blob/master/images/mecogui_initialize.png)
+
+If the parsing process generated no errors, the parsed model should appear on the _Info console_ tab. Otherwise, errors will appear on the _Error console_ tab. Likewise, any warnings will appear on the _Warning console_ tab.
+
+![Model initialized](https://github.com/manugarciaquismondo/MeCoGUI/blob/master/images/mecogui_model_initialized.png)
+
 
