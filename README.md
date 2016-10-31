@@ -63,5 +63,5 @@ During simulation or when the simulation is finished, the simulation results can
 
 ![Save simulation results](https://github.com/manugarciaquismondo/MeCoGUI/blob/master/images/mecogui_save_results.png)
 
-The button _Translate results_ will enable processing of simulation files in future releases. It is currently in alpha version.
+The button _Translate results_ will enable processing of simulation result files in future releases. It is currently in alpha version.
 
