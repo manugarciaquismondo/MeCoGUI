@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<writers>
-	<writer id ="probabilistic_guarded_psystems" class ="org.gcn.pLinguaCoreCSVApplication.writers.specificWriters.ProbabilisticGuardedResultsWriter"></writer>
- 	<writer id ="regenerative_psystems" class ="org.gcn.pLinguaCoreCSVApplication.writers.specificWriters.sqlite.SQLPlanformResultsWriter"></writer>
- 	<writer id ="simple_regenerative_psystems" class ="org.gcn.pLinguaCoreCSVApplication.writers.specificWriters.sqlite.SQLPlanformResultsWriter"></writer>
- 
-</writers>
