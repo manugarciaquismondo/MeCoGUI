@@ -20,7 +20,7 @@ public class XmlSimulatorResultsWritersResource extends XmlFileIDs{
 	@Override
 	protected String getRootDirectory() {
 		// TODO Auto-generated method stub
-		return "org/gcn/pLinguaCoreCSVApplication";
+		return "org/gcn/MeCoGUI";
 	}
 
 	protected String getFileString(){
