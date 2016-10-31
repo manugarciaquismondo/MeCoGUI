@@ -53,5 +53,15 @@ To simulate the system using the selected pLinguaCore simulator, use the followi
 * _Simulate_ runs as many simulation cycles as indicated in the field _Number of cycles_. Each simulation cycle consists of as many steps as indicated in the field _Steps per cycle_.
 * _Simulate all_ runs as many simulations as indicated in the field _Number of simulations_. Each simulation consists of as many simulation cycles as indicated in the field _Number of cycles_.
 
-During simulation, the current configuration of the system is displayed in the _Info console_ tab.
+![Simulation buttons](https://github.com/manugarciaquismondo/MeCoGUI/blob/master/images/mecogui_simulation_buttons.png)
+
+During simulation, the current and previous configurations of the system are displayed in the _Info console_ tab.
+
+![Simulation information](https://github.com/manugarciaquismondo/MeCoGUI/blob/master/images/mecogui_simulation_information.png)
+
+During simulation or when the simulation is finished, the simulation results can be saved in CSV format on the selected file clicking on _File_>_Save Results_.
+
+![Save simulation results](https://github.com/manugarciaquismondo/MeCoGUI/blob/master/images/mecogui_save_results.png)
+
+The button _Translate results_ will enable processing of simulation files in future releases. It is currently in alpha version.
 
